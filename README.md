@@ -26,9 +26,9 @@ Can we predict heart failure based on attributes? Which model is best to predict
 4. Accuracy Score
 
 ## References
-https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/
-https://www.kaggle.com/code/durgancegaur/a-guide-to-any-classification-problem
-https://www.w3resource.com/python-exercises/pandas/missing-values/python-pandas-missing-values-exercise-14.php
+1. https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/
+2. https://www.kaggle.com/code/durgancegaur/a-guide-to-any-classification-problem
+3. https://www.w3resource.com/python-exercises/pandas/missing-values/python-pandas-missing-values-exercise-14.php
 
 
 
